@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+}
+.top-container {
+  background-color: rgb(202, 0, 0);
+}
+.second-container {
+  background-color: #4d8bbc;
+  overflow: hidden;
+}
+.title {
+  text-align: center;
+  font-weight: bolder;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  text-shadow: 4px 4px rgb(224, 94, 94);
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.peter-parker {
+  text-transform: uppercase;
+  font-family: "Architects Daughter", cursive;
+  text-decoration: line-through;
+  padding-left: 10px;
+}
+.name {
+  text-transform: uppercase;
+  font-family: "Architects Daughter", cursive;
+  letter-spacing: 4px;
+  padding-left: 10px;
+  color: #edac4d;
+}
+p {
+  text-indent: 50px;
+  font-family: "Roboto", sans-serif;
+}
+.spider-man {
+  width: 25%;
+  position: absolute;
+  bottom: 20px;
+  padding-left: 30px;
+}
+
+img {
+  width: 30%;
+  height: 30%;
+  float: right;
+  padding: 50px;
+}
+
+.third-container {
+  background-color: #edac4d;
+  overflow: hidden;
+}
+
+.tony {
+  margin-top: 0;
+  padding-top: 30px;
+  padding-left: 10px;
+  font-family: "Zen Kurenaido", sans-serif;
+  text-decoration: line-through;
+  text-transform: uppercase;
+}
+
+.iron-man {
+  color: rgb(202, 0, 0);
+  font-family: "Zen Kurenaido", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding-left: 10px;
+}
