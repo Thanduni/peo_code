@@ -1,0 +1,30 @@
+body {
+  background-image: url(./assets/bg.jpg);
+}
+.top-img {
+  width: 7%;
+  border-radius: 50%;
+  border: 5px solid white;
+  margin: 20px;
+}
+.top-img:hover {
+  transform: scale(1.2);
+}
+.image-container {
+  display: table-cell;
+}
+.image1 {
+  border-radius: 20px;
+  padding-left: 10px;
+  width: 30%;
+}
+.image2 {
+  width: 30%;
+  border-radius: 20px;
+  padding-left: 10px;
+}
+.image3 {
+  width: 30%;
+  border-radius: 20px;
+  padding-left: 10px;
+}

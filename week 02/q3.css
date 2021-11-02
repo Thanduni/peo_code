@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+.grid-container {
+  display: grid;
+  background-color: cadetblue;
+  height: 999px;
+  padding: 10px;
+  grid-template-columns: 10% 70% 20%;
+  grid-template-rows: 30% 20% 50%;
+  justify-content: space-evenly;
+}
+.grid-item {
+  color: black;
+  font-size: medium;
+  text-align: center;
+  margin: 10px;
+  line-height: 40px;
+}
